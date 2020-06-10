@@ -3,32 +3,31 @@
 
 ,
 "basics": {
-    "name": "François Dorval",
-    "label": "yaa",
+    "name": "Morgan Fev",
+    "label": "yazaaa",
     "picture": "https://i.ibb.co/jJg5VCw/snuggles-1.jpg",
-    "email": "francois.dorval@gmail.com",
-    "website": "https://github.com/francois-dorval",
-    "summary": "Ma vie, mon oeuvre",
+    "email": "mon@gmail.com",
+    "website": "https://github.com/Morgan29200",
+    "summary": "Yellow submarine",
     "location": {
       "address": "somewhere",
-      "postalCode": "29470",
-      "city": "Plougastel",
+      "postalCode": "29200",
+      "city": "Brest",
       "countryCode": "FR",
       "region": "France"
     },
     "profiles": [
       {
-        "network": "Twitter",
-        "username": "francoisdorval",
-        "url": "https://twitter.com/francoisdorval"
+        "network": "facebouk",
+        "username": "momo",
+        "url": "https://google.com"
       }
     ]
   },
   "work": [
     {
-      "company": "Arkea",
+      "company": "al",
       "position": "developper",
-      "website": "http://arkea.com",
       "endDate": "2014-01-01",
       "summary": "Openbanking",
       "highlights": [
